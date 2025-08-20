@@ -203,6 +203,11 @@ A: Currently, the project focuses on Tkinter, but the architecture could be adap
 
 ---
 
-<div align="center">
-Made with ❤️ by [ahmedsabrari](https://github.com/ahmedsabrari)
+<div style="text-align: center; margin-top: 50px; font-family: 'Arial', sans-serif;">
+  <p style="font-size: 14px; color: #777;">Made with ❤️ by</p>
+  <a href="https://github.com/ahmedsabrari" 
+     style="font-size: 18px; font-weight: bold; color: #0078D7; text-decoration: none;">
+     ahmedsabrari
+  </a>
+  <p style="font-size: 12px; color: #777;">© 2025 All rights reserved</p>
 </div>
