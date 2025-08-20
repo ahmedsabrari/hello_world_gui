@@ -34,6 +34,42 @@ The application features a simple yet elegant interface with multiple interactio
 - ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white) - GUI framework
 - ![unittest](https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white) - Testing framework
 
+يمكنك إضافة **Project Structure** في ملف الـ **README** في قسم مناسب، مثل أسفل قسم **Usage** أو **Installation**، حتى يسهل على المطورين والآخرين فهم بنية المشروع.
+
+إليك المكان المثالي لإضافة **Project Structure** في الـ README:
+
+## 🗂️ Project Structure
+
+Here’s the structure of the project:
+
+```
+
+hello\_world\_gui/
+│── README.md
+│── requirements.txt
+│── setup.py               # optional, for packaging
+│── main.py                # entry point
+│
+├── gui/                   # user interface code
+│   ├── **init**.py
+│   ├── app.py             # main Tkinter App class
+│   ├── widgets.py         # reusable widgets (buttons, labels, etc.)
+│   └── styles.py          # colors, fonts, themes
+│
+├── logic/                 # business logic
+│   ├── **init**.py
+│   └── functions.py       # event handlers and app logic
+│
+├── assets/                # directory for assets like images
+│   └── images/            # store images here
+│       └── hello-world-screenshot.png  # image file
+│
+└── tests/                 # tests
+├── **init**.py
+└── test\_app.py
+
+```
+
 ## 📋 Prerequisites
 
 Before installing Hello World GUI, ensure you have the following prerequisites:
