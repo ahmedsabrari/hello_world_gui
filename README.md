@@ -176,5 +176,5 @@ If you have any questions or issues:
 ---
 
 <div align="center">
-Made with ❤️ by ([ahmedsabrari](https://github.com/ahmedsabrari))
+Made with ❤️ by [ahmedsabrari](https://github.com/ahmedsabrari)
 </div>
