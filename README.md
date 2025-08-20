@@ -159,14 +159,6 @@ A: Modify the styles in `gui/styles.py` or extend the style configuration system
 ### Q: Is there support for other Python GUI frameworks?
 A: Currently, the project focuses on Tkinter, but the architecture could be adapted to other frameworks like PyQt or Kivy.
 
-## 📞 Support
-
-If you have any questions or issues:
-
-1. Check the [documentation](https://github.com/ahmedsabrari/hello_world_gui/wiki)
-2. Search existing [issues](https://github.com/ahmedsabrari/hello_world_gui/issues)
-3. Create a new issue with detailed information
-
 ## 🙏 Acknowledgments
 
 - Python Software Foundation for the excellent Python language
