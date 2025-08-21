@@ -12,6 +12,7 @@ A professional, extensible "Hello World" GUI application built with Python and T
 ![Hello World GUI Screenshot](assets/images/New_message.jpg)
 ![Hello World GUI Screenshot](assets/images/New_message_1.jpg)
 ![Hello World GUI Screenshot](assets/images/Update_message.jpg)
+![Hello World GUI Screenshot](assets/images/X.jpg)
 
 ## 📖 About The Project
 

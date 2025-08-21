@@ -37,10 +37,10 @@ class TestAppLogic(unittest.TestCase):
     
     def test_update_message_with_whitespace(self):
         """Test updating the message with whitespace only"""
-        # تنفيذ
+        # Execute
         logic.update_message(self.message_var, "   ")
         
-        # التحقق
+        # Assert
         self.assertEqual(self.message_var.get(), "Empty message!!")
     
     @patch('logic.functions.messagebox.askyesno')
