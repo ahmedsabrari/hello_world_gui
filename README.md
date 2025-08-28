@@ -35,10 +35,6 @@ The application features a simple yet elegant interface with multiple interactio
 - ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white) - GUI framework
 - ![unittest](https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white) - Testing framework
 
-يمكنك إضافة **Project Structure** في ملف الـ **README** في قسم مناسب، مثل أسفل قسم **Usage** أو **Installation**، حتى يسهل على المطورين والآخرين فهم بنية المشروع.
-
-إليك المكان المثالي لإضافة **Project Structure** في الـ README:
-
 ## 🗂️ Project Structure
 
 Here’s the structure of the project:
